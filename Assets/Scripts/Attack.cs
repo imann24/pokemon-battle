@@ -7,4 +7,6 @@ public class Attack {
 	public string AttackName;
 
 	public int AttackPower;
+
+	public AudioClip AttackSound;
 }

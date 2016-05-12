@@ -18,6 +18,7 @@ public class PokemonController : MonoBehaviour {
 
 	public bool YourPokemon;
 
+	AudioSource audioPlayer;
 	// Use this for initialization
 	void Start () {
 		PokemonName.text = Pokemon.Name;
@@ -32,6 +33,8 @@ public class PokemonController : MonoBehaviour {
 		for (int i = 0; i < Attacks.Length; i++) {
 			Attacks[i].text = Pokemon.Attacks[i].AttackName;
 		}
+
+		audioPlayer = gameObject.AddComponent<AudioSource>();
 	}
 	
 	public string GetCurrentHP () {
@@ -48,6 +51,11 @@ public class PokemonController : MonoBehaviour {
 
 		if (YourPokemon) {
 			StartCoroutine(EnemyWaitToAttack(0.5f));
+		}
+
+		if (Pokemon.Attacks[attackIndex].AttackSound != null) {
+			audioPlayer.clip = Pokemon.Attacks[attackIndex].AttackSound;
+			audioPlayer.Play();
 		}
 
 		Enemy.Damage(Pokemon.Attacks[attackIndex].AttackPower);

@@ -1,0 +1,2825 @@
+fileFormatVersion: 2
+guid: 45b53d435411049799ee609b488a6fc9
+timeCreated: 1463024260
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon-spritesheet_0
+    21300002: pokemon-spritesheet_1
+    21300004: pokemon-spritesheet_2
+    21300006: pokemon-spritesheet_3
+    21300008: pokemon-spritesheet_4
+    21300010: pokemon-spritesheet_5
+    21300012: pokemon-spritesheet_6
+    21300014: pokemon-spritesheet_7
+    21300016: pokemon-spritesheet_8
+    21300018: pokemon-spritesheet_9
+    21300020: pokemon-spritesheet_10
+    21300022: pokemon-spritesheet_11
+    21300024: pokemon-spritesheet_12
+    21300026: pokemon-spritesheet_13
+    21300028: pokemon-spritesheet_14
+    21300030: pokemon-spritesheet_15
+    21300032: pokemon-spritesheet_16
+    21300034: pokemon-spritesheet_17
+    21300036: pokemon-spritesheet_18
+    21300038: pokemon-spritesheet_19
+    21300040: pokemon-spritesheet_20
+    21300042: pokemon-spritesheet_21
+    21300044: pokemon-spritesheet_22
+    21300046: pokemon-spritesheet_23
+    21300048: pokemon-spritesheet_24
+    21300050: pokemon-spritesheet_25
+    21300052: pokemon-spritesheet_26
+    21300054: pokemon-spritesheet_27
+    21300056: pokemon-spritesheet_28
+    21300058: pokemon-spritesheet_29
+    21300060: pokemon-spritesheet_30
+    21300062: pokemon-spritesheet_31
+    21300064: pokemon-spritesheet_32
+    21300066: pokemon-spritesheet_33
+    21300068: pokemon-spritesheet_34
+    21300070: pokemon-spritesheet_35
+    21300072: pokemon-spritesheet_36
+    21300074: pokemon-spritesheet_37
+    21300076: pokemon-spritesheet_38
+    21300078: pokemon-spritesheet_39
+    21300080: pokemon-spritesheet_40
+    21300082: pokemon-spritesheet_41
+    21300084: pokemon-spritesheet_42
+    21300086: pokemon-spritesheet_43
+    21300088: pokemon-spritesheet_44
+    21300090: pokemon-spritesheet_45
+    21300092: pokemon-spritesheet_46
+    21300094: pokemon-spritesheet_47
+    21300096: pokemon-spritesheet_48
+    21300098: pokemon-spritesheet_49
+    21300100: pokemon-spritesheet_50
+    21300102: pokemon-spritesheet_51
+    21300104: pokemon-spritesheet_52
+    21300106: pokemon-spritesheet_53
+    21300108: pokemon-spritesheet_54
+    21300110: pokemon-spritesheet_55
+    21300112: pokemon-spritesheet_56
+    21300114: pokemon-spritesheet_57
+    21300116: pokemon-spritesheet_58
+    21300118: pokemon-spritesheet_59
+    21300120: pokemon-spritesheet_60
+    21300122: pokemon-spritesheet_61
+    21300124: pokemon-spritesheet_62
+    21300126: pokemon-spritesheet_63
+    21300128: pokemon-spritesheet_64
+    21300130: pokemon-spritesheet_65
+    21300132: pokemon-spritesheet_66
+    21300134: pokemon-spritesheet_67
+    21300136: pokemon-spritesheet_68
+    21300138: pokemon-spritesheet_69
+    21300140: pokemon-spritesheet_70
+    21300142: pokemon-spritesheet_71
+    21300144: pokemon-spritesheet_72
+    21300146: pokemon-spritesheet_73
+    21300148: pokemon-spritesheet_74
+    21300150: pokemon-spritesheet_75
+    21300152: pokemon-spritesheet_76
+    21300154: pokemon-spritesheet_77
+    21300156: pokemon-spritesheet_78
+    21300158: pokemon-spritesheet_79
+    21300160: pokemon-spritesheet_80
+    21300162: pokemon-spritesheet_81
+    21300164: pokemon-spritesheet_82
+    21300166: pokemon-spritesheet_83
+    21300168: pokemon-spritesheet_84
+    21300170: pokemon-spritesheet_85
+    21300172: pokemon-spritesheet_86
+    21300174: pokemon-spritesheet_87
+    21300176: pokemon-spritesheet_88
+    21300178: pokemon-spritesheet_89
+    21300180: pokemon-spritesheet_90
+    21300182: pokemon-spritesheet_91
+    21300184: pokemon-spritesheet_92
+    21300186: pokemon-spritesheet_93
+    21300188: pokemon-spritesheet_94
+    21300190: pokemon-spritesheet_95
+    21300192: pokemon-spritesheet_96
+    21300194: pokemon-spritesheet_97
+    21300196: pokemon-spritesheet_98
+    21300198: pokemon-spritesheet_99
+    21300200: pokemon-spritesheet_100
+    21300202: pokemon-spritesheet_101
+    21300204: pokemon-spritesheet_102
+    21300206: pokemon-spritesheet_103
+    21300208: pokemon-spritesheet_104
+    21300210: pokemon-spritesheet_105
+    21300212: pokemon-spritesheet_106
+    21300214: pokemon-spritesheet_107
+    21300216: pokemon-spritesheet_108
+    21300218: pokemon-spritesheet_109
+    21300220: pokemon-spritesheet_110
+    21300222: pokemon-spritesheet_111
+    21300224: pokemon-spritesheet_112
+    21300226: pokemon-spritesheet_113
+    21300228: pokemon-spritesheet_114
+    21300230: pokemon-spritesheet_115
+    21300232: pokemon-spritesheet_116
+    21300234: pokemon-spritesheet_117
+    21300236: pokemon-spritesheet_118
+    21300238: pokemon-spritesheet_119
+    21300240: pokemon-spritesheet_120
+    21300242: pokemon-spritesheet_121
+    21300244: pokemon-spritesheet_122
+    21300246: pokemon-spritesheet_123
+    21300248: pokemon-spritesheet_124
+    21300250: pokemon-spritesheet_125
+    21300252: pokemon-spritesheet_126
+    21300254: pokemon-spritesheet_127
+    21300256: pokemon-spritesheet_128
+    21300258: pokemon-spritesheet_129
+    21300260: pokemon-spritesheet_130
+    21300262: pokemon-spritesheet_131
+    21300264: pokemon-spritesheet_132
+    21300266: pokemon-spritesheet_133
+    21300268: pokemon-spritesheet_134
+    21300270: pokemon-spritesheet_135
+    21300272: pokemon-spritesheet_136
+    21300274: pokemon-spritesheet_137
+    21300276: pokemon-spritesheet_138
+    21300278: pokemon-spritesheet_139
+    21300280: pokemon-spritesheet_140
+    21300282: pokemon-spritesheet_141
+    21300284: pokemon-spritesheet_142
+    21300286: pokemon-spritesheet_143
+    21300288: pokemon-spritesheet_144
+    21300290: pokemon-spritesheet_145
+    21300292: pokemon-spritesheet_146
+    21300294: pokemon-spritesheet_147
+    21300296: pokemon-spritesheet_148
+    21300298: pokemon-spritesheet_149
+    21300300: pokemon-spritesheet_150
+    21300302: pokemon-spritesheet_151
+    21300304: pokemon-spritesheet_152
+    21300306: pokemon-spritesheet_153
+    21300308: pokemon-spritesheet_154
+    21300310: pokemon-spritesheet_155
+    21300312: pokemon-spritesheet_156
+    21300314: pokemon-spritesheet_157
+    21300316: pokemon-spritesheet_158
+    21300318: pokemon-spritesheet_159
+    21300320: pokemon-spritesheet_160
+    21300322: pokemon-spritesheet_161
+    21300324: pokemon-spritesheet_162
+    21300326: pokemon-spritesheet_163
+    21300328: pokemon-spritesheet_164
+    21300330: pokemon-spritesheet_165
+    21300332: pokemon-spritesheet_166
+    21300334: pokemon-spritesheet_167
+    21300336: pokemon-spritesheet_168
+    21300338: pokemon-spritesheet_169
+    21300340: pokemon-spritesheet_170
+    21300342: pokemon-spritesheet_171
+    21300344: pokemon-spritesheet_172
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pokemon-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.315063}
+        - {x: -43, y: -42.684937}
+        - {x: 43, y: -42.684937}
+        - {x: 43, y: 44.315063}
+    - name: pokemon-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.315063}
+        - {x: -42.65365, y: -42.684937}
+        - {x: 44.34635, y: -42.684937}
+        - {x: 44.34635, y: 44.315063}
+    - name: pokemon-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.315063}
+        - {x: -42.807297, y: -42.684937}
+        - {x: 44.192703, y: -42.684937}
+        - {x: 44.192703, y: 44.315063}
+    - name: pokemon-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.315063}
+        - {x: -42.960938, y: -42.684937}
+        - {x: 44.039062, y: -42.684937}
+        - {x: 44.039062, y: 44.315063}
+    - name: pokemon-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.315063}
+        - {x: -43.114594, y: -42.684937}
+        - {x: 43.885406, y: -42.684937}
+        - {x: 43.885406, y: 44.315063}
+    - name: pokemon-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.315063}
+        - {x: -43.26825, y: -42.684937}
+        - {x: 43.73175, y: -42.684937}
+        - {x: 43.73175, y: 44.315063}
+    - name: pokemon-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.315063}
+        - {x: -42.921875, y: -42.684937}
+        - {x: 43.078125, y: -42.684937}
+        - {x: 43.078125, y: 44.315063}
+    - name: pokemon-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2171
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.315063}
+        - {x: -42.57556, y: -42.684937}
+        - {x: 44.42444, y: -42.684937}
+        - {x: 44.42444, y: 44.315063}
+    - name: pokemon-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.239502}
+        - {x: -43, y: -42.760498}
+        - {x: 43, y: -42.760498}
+        - {x: 43, y: 44.239502}
+    - name: pokemon-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.239502}
+        - {x: -42.65365, y: -42.760498}
+        - {x: 44.34635, y: -42.760498}
+        - {x: 44.34635, y: 44.239502}
+    - name: pokemon-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.239502}
+        - {x: -42.807297, y: -42.760498}
+        - {x: 44.192703, y: -42.760498}
+        - {x: 44.192703, y: 44.239502}
+    - name: pokemon-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.239502}
+        - {x: -42.960938, y: -42.760498}
+        - {x: 44.039062, y: -42.760498}
+        - {x: 44.039062, y: 44.239502}
+    - name: pokemon-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.239502}
+        - {x: -43.114594, y: -42.760498}
+        - {x: 43.885406, y: -42.760498}
+        - {x: 43.885406, y: 44.239502}
+    - name: pokemon-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.239502}
+        - {x: -43.26825, y: -42.760498}
+        - {x: 43.73175, y: -42.760498}
+        - {x: 43.73175, y: 44.239502}
+    - name: pokemon-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.239502}
+        - {x: -42.921875, y: -42.760498}
+        - {x: 43.078125, y: -42.760498}
+        - {x: 43.078125, y: 44.239502}
+    - name: pokemon-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2068
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.239502}
+        - {x: -42.57556, y: -42.760498}
+        - {x: 44.42444, y: -42.760498}
+        - {x: 44.42444, y: 44.239502}
+    - name: pokemon-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.164062}
+        - {x: -43, y: -42.835938}
+        - {x: 43, y: -42.835938}
+        - {x: 43, y: 44.164062}
+    - name: pokemon-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.164062}
+        - {x: -42.65365, y: -42.835938}
+        - {x: 44.34635, y: -42.835938}
+        - {x: 44.34635, y: 44.164062}
+    - name: pokemon-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.164062}
+        - {x: -42.807297, y: -42.835938}
+        - {x: 44.192703, y: -42.835938}
+        - {x: 44.192703, y: 44.164062}
+    - name: pokemon-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.164062}
+        - {x: -42.960938, y: -42.835938}
+        - {x: 44.039062, y: -42.835938}
+        - {x: 44.039062, y: 44.164062}
+    - name: pokemon-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.164062}
+        - {x: -43.114594, y: -42.835938}
+        - {x: 43.885406, y: -42.835938}
+        - {x: 43.885406, y: 44.164062}
+    - name: pokemon-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.164062}
+        - {x: -43.26825, y: -42.835938}
+        - {x: 43.73175, y: -42.835938}
+        - {x: 43.73175, y: 44.164062}
+    - name: pokemon-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.164062}
+        - {x: -42.921875, y: -42.835938}
+        - {x: 43.078125, y: -42.835938}
+        - {x: 43.078125, y: 44.164062}
+    - name: pokemon-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1965
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.164062}
+        - {x: -42.57556, y: -42.835938}
+        - {x: 44.42444, y: -42.835938}
+        - {x: 44.42444, y: 44.164062}
+    - name: pokemon-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.0885}
+        - {x: -43, y: -42.9115}
+        - {x: 43, y: -42.9115}
+        - {x: 43, y: 44.0885}
+    - name: pokemon-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.0885}
+        - {x: -42.65365, y: -42.9115}
+        - {x: 44.34635, y: -42.9115}
+        - {x: 44.34635, y: 44.0885}
+    - name: pokemon-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.0885}
+        - {x: -42.807297, y: -42.9115}
+        - {x: 44.192703, y: -42.9115}
+        - {x: 44.192703, y: 44.0885}
+    - name: pokemon-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.0885}
+        - {x: -42.960938, y: -42.9115}
+        - {x: 44.039062, y: -42.9115}
+        - {x: 44.039062, y: 44.0885}
+    - name: pokemon-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.0885}
+        - {x: -43.114594, y: -42.9115}
+        - {x: 43.885406, y: -42.9115}
+        - {x: 43.885406, y: 44.0885}
+    - name: pokemon-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.0885}
+        - {x: -43.26825, y: -42.9115}
+        - {x: 43.73175, y: -42.9115}
+        - {x: 43.73175, y: 44.0885}
+    - name: pokemon-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.0885}
+        - {x: -42.921875, y: -42.9115}
+        - {x: 43.078125, y: -42.9115}
+        - {x: 43.078125, y: 44.0885}
+    - name: pokemon-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1862
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.0885}
+        - {x: -42.57556, y: -42.9115}
+        - {x: 44.42444, y: -42.9115}
+        - {x: 44.42444, y: 44.0885}
+    - name: pokemon-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.01294}
+        - {x: -43, y: -42.98706}
+        - {x: 43, y: -42.98706}
+        - {x: 43, y: 44.01294}
+    - name: pokemon-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.01294}
+        - {x: -42.65365, y: -42.98706}
+        - {x: 44.34635, y: -42.98706}
+        - {x: 44.34635, y: 44.01294}
+    - name: pokemon-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.01294}
+        - {x: -42.807297, y: -42.98706}
+        - {x: 44.192703, y: -42.98706}
+        - {x: 44.192703, y: 44.01294}
+    - name: pokemon-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.01294}
+        - {x: -42.960938, y: -42.98706}
+        - {x: 44.039062, y: -42.98706}
+        - {x: 44.039062, y: 44.01294}
+    - name: pokemon-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.01294}
+        - {x: -43.114594, y: -42.98706}
+        - {x: 43.885406, y: -42.98706}
+        - {x: 43.885406, y: 44.01294}
+    - name: pokemon-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.01294}
+        - {x: -43.26825, y: -42.98706}
+        - {x: 43.73175, y: -42.98706}
+        - {x: 43.73175, y: 44.01294}
+    - name: pokemon-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.01294}
+        - {x: -42.921875, y: -42.98706}
+        - {x: 43.078125, y: -42.98706}
+        - {x: 43.078125, y: 44.01294}
+    - name: pokemon-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1759
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.01294}
+        - {x: -42.57556, y: -42.98706}
+        - {x: 44.42444, y: -42.98706}
+        - {x: 44.42444, y: 44.01294}
+    - name: pokemon-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.9375}
+        - {x: -43, y: -43.0625}
+        - {x: 43, y: -43.0625}
+        - {x: 43, y: 43.9375}
+    - name: pokemon-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.9375}
+        - {x: -42.65365, y: -43.0625}
+        - {x: 44.34635, y: -43.0625}
+        - {x: 44.34635, y: 43.9375}
+    - name: pokemon-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.9375}
+        - {x: -42.807297, y: -43.0625}
+        - {x: 44.192703, y: -43.0625}
+        - {x: 44.192703, y: 43.9375}
+    - name: pokemon-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.9375}
+        - {x: -42.960938, y: -43.0625}
+        - {x: 44.039062, y: -43.0625}
+        - {x: 44.039062, y: 43.9375}
+    - name: pokemon-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.9375}
+        - {x: -43.114594, y: -43.0625}
+        - {x: 43.885406, y: -43.0625}
+        - {x: 43.885406, y: 43.9375}
+    - name: pokemon-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.9375}
+        - {x: -43.26825, y: -43.0625}
+        - {x: 43.73175, y: -43.0625}
+        - {x: 43.73175, y: 43.9375}
+    - name: pokemon-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.9375}
+        - {x: -42.921875, y: -43.0625}
+        - {x: 43.078125, y: -43.0625}
+        - {x: 43.078125, y: 43.9375}
+    - name: pokemon-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1656
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.9375}
+        - {x: -42.57556, y: -43.0625}
+        - {x: 44.42444, y: -43.0625}
+        - {x: 44.42444, y: 43.9375}
+    - name: pokemon-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.86194}
+        - {x: -43, y: -43.13806}
+        - {x: 43, y: -43.13806}
+        - {x: 43, y: 43.86194}
+    - name: pokemon-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.86194}
+        - {x: -42.65365, y: -43.13806}
+        - {x: 44.34635, y: -43.13806}
+        - {x: 44.34635, y: 43.86194}
+    - name: pokemon-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.86194}
+        - {x: -42.807297, y: -43.13806}
+        - {x: 44.192703, y: -43.13806}
+        - {x: 44.192703, y: 43.86194}
+    - name: pokemon-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.86194}
+        - {x: -42.960938, y: -43.13806}
+        - {x: 44.039062, y: -43.13806}
+        - {x: 44.039062, y: 43.86194}
+    - name: pokemon-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.86194}
+        - {x: -43.114594, y: -43.13806}
+        - {x: 43.885406, y: -43.13806}
+        - {x: 43.885406, y: 43.86194}
+    - name: pokemon-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.86194}
+        - {x: -43.26825, y: -43.13806}
+        - {x: 43.73175, y: -43.13806}
+        - {x: 43.73175, y: 43.86194}
+    - name: pokemon-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.86194}
+        - {x: -42.921875, y: -43.13806}
+        - {x: 43.078125, y: -43.13806}
+        - {x: 43.078125, y: 43.86194}
+    - name: pokemon-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.86194}
+        - {x: -42.57556, y: -43.13806}
+        - {x: 44.42444, y: -43.13806}
+        - {x: 44.42444, y: 43.86194}
+    - name: pokemon-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.786377}
+        - {x: -43, y: -43.213623}
+        - {x: 43, y: -43.213623}
+        - {x: 43, y: 43.786377}
+    - name: pokemon-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.786377}
+        - {x: -42.65365, y: -43.213623}
+        - {x: 44.34635, y: -43.213623}
+        - {x: 44.34635, y: 43.786377}
+    - name: pokemon-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.786377}
+        - {x: -42.807297, y: -43.213623}
+        - {x: 44.192703, y: -43.213623}
+        - {x: 44.192703, y: 43.786377}
+    - name: pokemon-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.786377}
+        - {x: -42.960938, y: -43.213623}
+        - {x: 44.039062, y: -43.213623}
+        - {x: 44.039062, y: 43.786377}
+    - name: pokemon-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.786377}
+        - {x: -43.114594, y: -43.213623}
+        - {x: 43.885406, y: -43.213623}
+        - {x: 43.885406, y: 43.786377}
+    - name: pokemon-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.786377}
+        - {x: -43.26825, y: -43.213623}
+        - {x: 43.73175, y: -43.213623}
+        - {x: 43.73175, y: 43.786377}
+    - name: pokemon-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.786377}
+        - {x: -42.921875, y: -43.213623}
+        - {x: 43.078125, y: -43.213623}
+        - {x: 43.078125, y: 43.786377}
+    - name: pokemon-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1450
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.786377}
+        - {x: -42.57556, y: -43.213623}
+        - {x: 44.42444, y: -43.213623}
+        - {x: 44.42444, y: 43.786377}
+    - name: pokemon-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.710938}
+        - {x: -43, y: -43.289062}
+        - {x: 43, y: -43.289062}
+        - {x: 43, y: 43.710938}
+    - name: pokemon-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.710938}
+        - {x: -42.65365, y: -43.289062}
+        - {x: 44.34635, y: -43.289062}
+        - {x: 44.34635, y: 43.710938}
+    - name: pokemon-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.710938}
+        - {x: -42.807297, y: -43.289062}
+        - {x: 44.192703, y: -43.289062}
+        - {x: 44.192703, y: 43.710938}
+    - name: pokemon-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.710938}
+        - {x: -42.960938, y: -43.289062}
+        - {x: 44.039062, y: -43.289062}
+        - {x: 44.039062, y: 43.710938}
+    - name: pokemon-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.710938}
+        - {x: -43.114594, y: -43.289062}
+        - {x: 43.885406, y: -43.289062}
+        - {x: 43.885406, y: 43.710938}
+    - name: pokemon-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.710938}
+        - {x: -43.26825, y: -43.289062}
+        - {x: 43.73175, y: -43.289062}
+        - {x: 43.73175, y: 43.710938}
+    - name: pokemon-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.710938}
+        - {x: -42.921875, y: -43.289062}
+        - {x: 43.078125, y: -43.289062}
+        - {x: 43.078125, y: 43.710938}
+    - name: pokemon-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1347
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.710938}
+        - {x: -42.57556, y: -43.289062}
+        - {x: 44.42444, y: -43.289062}
+        - {x: 44.42444, y: 43.710938}
+    - name: pokemon-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.135376}
+        - {x: -43, y: -42.864624}
+        - {x: 43, y: -42.864624}
+        - {x: 43, y: 43.135376}
+    - name: pokemon-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.135376}
+        - {x: -42.65365, y: -42.864624}
+        - {x: 44.34635, y: -42.864624}
+        - {x: 44.34635, y: 43.135376}
+    - name: pokemon-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.135376}
+        - {x: -42.807297, y: -42.864624}
+        - {x: 44.192703, y: -42.864624}
+        - {x: 44.192703, y: 43.135376}
+    - name: pokemon-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.135376}
+        - {x: -42.960938, y: -42.864624}
+        - {x: 44.039062, y: -42.864624}
+        - {x: 44.039062, y: 43.135376}
+    - name: pokemon-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.135376}
+        - {x: -43.114594, y: -42.864624}
+        - {x: 43.885406, y: -42.864624}
+        - {x: 43.885406, y: 43.135376}
+    - name: pokemon-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.135376}
+        - {x: -43.26825, y: -42.864624}
+        - {x: 43.73175, y: -42.864624}
+        - {x: 43.73175, y: 43.135376}
+    - name: pokemon-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.135376}
+        - {x: -42.921875, y: -42.864624}
+        - {x: 43.078125, y: -42.864624}
+        - {x: 43.078125, y: 43.135376}
+    - name: pokemon-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1244
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.135376}
+        - {x: -42.57556, y: -42.864624}
+        - {x: 44.42444, y: -42.864624}
+        - {x: 44.42444, y: 43.135376}
+    - name: pokemon-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.059814}
+        - {x: -43, y: -42.940186}
+        - {x: 43, y: -42.940186}
+        - {x: 43, y: 43.059814}
+    - name: pokemon-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.059814}
+        - {x: -42.65365, y: -42.940186}
+        - {x: 44.34635, y: -42.940186}
+        - {x: 44.34635, y: 43.059814}
+    - name: pokemon-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.059814}
+        - {x: -42.807297, y: -42.940186}
+        - {x: 44.192703, y: -42.940186}
+        - {x: 44.192703, y: 43.059814}
+    - name: pokemon-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.059814}
+        - {x: -42.960938, y: -42.940186}
+        - {x: 44.039062, y: -42.940186}
+        - {x: 44.039062, y: 43.059814}
+    - name: pokemon-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.059814}
+        - {x: -43.114594, y: -42.940186}
+        - {x: 43.885406, y: -42.940186}
+        - {x: 43.885406, y: 43.059814}
+    - name: pokemon-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.059814}
+        - {x: -43.26825, y: -42.940186}
+        - {x: 43.73175, y: -42.940186}
+        - {x: 43.73175, y: 43.059814}
+    - name: pokemon-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.059814}
+        - {x: -42.921875, y: -42.940186}
+        - {x: 43.078125, y: -42.940186}
+        - {x: 43.078125, y: 43.059814}
+    - name: pokemon-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1141
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.059814}
+        - {x: -42.57556, y: -42.940186}
+        - {x: 44.42444, y: -42.940186}
+        - {x: 44.42444, y: 43.059814}
+    - name: pokemon-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.484375}
+        - {x: -43, y: -42.515625}
+        - {x: 43, y: -42.515625}
+        - {x: 43, y: 44.484375}
+    - name: pokemon-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.484375}
+        - {x: -42.65365, y: -42.515625}
+        - {x: 44.34635, y: -42.515625}
+        - {x: 44.34635, y: 44.484375}
+    - name: pokemon-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.484375}
+        - {x: -42.807297, y: -42.515625}
+        - {x: 44.192703, y: -42.515625}
+        - {x: 44.192703, y: 44.484375}
+    - name: pokemon-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.484375}
+        - {x: -42.960938, y: -42.515625}
+        - {x: 44.039062, y: -42.515625}
+        - {x: 44.039062, y: 44.484375}
+    - name: pokemon-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.484375}
+        - {x: -43.114594, y: -42.515625}
+        - {x: 43.885406, y: -42.515625}
+        - {x: 43.885406, y: 44.484375}
+    - name: pokemon-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.484375}
+        - {x: -43.26825, y: -42.515625}
+        - {x: 43.73175, y: -42.515625}
+        - {x: 43.73175, y: 44.484375}
+    - name: pokemon-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.484375}
+        - {x: -42.921875, y: -42.515625}
+        - {x: 43.078125, y: -42.515625}
+        - {x: 43.078125, y: 44.484375}
+    - name: pokemon-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1038
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.484375}
+        - {x: -42.57556, y: -42.515625}
+        - {x: 44.42444, y: -42.515625}
+        - {x: 44.42444, y: 44.484375}
+    - name: pokemon-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.408813}
+        - {x: -43, y: -42.591187}
+        - {x: 43, y: -42.591187}
+        - {x: 43, y: 44.408813}
+    - name: pokemon-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.408813}
+        - {x: -42.65365, y: -42.591187}
+        - {x: 44.34635, y: -42.591187}
+        - {x: 44.34635, y: 44.408813}
+    - name: pokemon-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.408813}
+        - {x: -42.807297, y: -42.591187}
+        - {x: 44.192703, y: -42.591187}
+        - {x: 44.192703, y: 44.408813}
+    - name: pokemon-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.408813}
+        - {x: -42.960938, y: -42.591187}
+        - {x: 44.039062, y: -42.591187}
+        - {x: 44.039062, y: 44.408813}
+    - name: pokemon-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.408813}
+        - {x: -43.114594, y: -42.591187}
+        - {x: 43.885406, y: -42.591187}
+        - {x: 43.885406, y: 44.408813}
+    - name: pokemon-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.408813}
+        - {x: -43.26825, y: -42.591187}
+        - {x: 43.73175, y: -42.591187}
+        - {x: 43.73175, y: 44.408813}
+    - name: pokemon-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.408813}
+        - {x: -42.921875, y: -42.591187}
+        - {x: 43.078125, y: -42.591187}
+        - {x: 43.078125, y: 44.408813}
+    - name: pokemon-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 935
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.408813}
+        - {x: -42.57556, y: -42.591187}
+        - {x: 44.42444, y: -42.591187}
+        - {x: 44.42444, y: 44.408813}
+    - name: pokemon-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.333313}
+        - {x: -43, y: -42.666687}
+        - {x: 43, y: -42.666687}
+        - {x: 43, y: 44.333313}
+    - name: pokemon-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.333313}
+        - {x: -42.65365, y: -42.666687}
+        - {x: 44.34635, y: -42.666687}
+        - {x: 44.34635, y: 44.333313}
+    - name: pokemon-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.333313}
+        - {x: -42.807297, y: -42.666687}
+        - {x: 44.192703, y: -42.666687}
+        - {x: 44.192703, y: 44.333313}
+    - name: pokemon-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.333313}
+        - {x: -42.960938, y: -42.666687}
+        - {x: 44.039062, y: -42.666687}
+        - {x: 44.039062, y: 44.333313}
+    - name: pokemon-spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.333313}
+        - {x: -43.114594, y: -42.666687}
+        - {x: 43.885406, y: -42.666687}
+        - {x: 43.885406, y: 44.333313}
+    - name: pokemon-spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.333313}
+        - {x: -43.26825, y: -42.666687}
+        - {x: 43.73175, y: -42.666687}
+        - {x: 43.73175, y: 44.333313}
+    - name: pokemon-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.333313}
+        - {x: -42.921875, y: -42.666687}
+        - {x: 43.078125, y: -42.666687}
+        - {x: 43.078125, y: 44.333313}
+    - name: pokemon-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 832
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.333313}
+        - {x: -42.57556, y: -42.666687}
+        - {x: 44.42444, y: -42.666687}
+        - {x: 44.42444, y: 44.333313}
+    - name: pokemon-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.257812}
+        - {x: -43, y: -42.742188}
+        - {x: 43, y: -42.742188}
+        - {x: 43, y: 44.257812}
+    - name: pokemon-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.257812}
+        - {x: -42.65365, y: -42.742188}
+        - {x: 44.34635, y: -42.742188}
+        - {x: 44.34635, y: 44.257812}
+    - name: pokemon-spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.257812}
+        - {x: -42.807297, y: -42.742188}
+        - {x: 44.192703, y: -42.742188}
+        - {x: 44.192703, y: 44.257812}
+    - name: pokemon-spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.257812}
+        - {x: -42.960938, y: -42.742188}
+        - {x: 44.039062, y: -42.742188}
+        - {x: 44.039062, y: 44.257812}
+    - name: pokemon-spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.257812}
+        - {x: -43.114594, y: -42.742188}
+        - {x: 43.885406, y: -42.742188}
+        - {x: 43.885406, y: 44.257812}
+    - name: pokemon-spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.257812}
+        - {x: -43.26825, y: -42.742188}
+        - {x: 43.73175, y: -42.742188}
+        - {x: 43.73175, y: 44.257812}
+    - name: pokemon-spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.257812}
+        - {x: -42.921875, y: -42.742188}
+        - {x: 43.078125, y: -42.742188}
+        - {x: 43.078125, y: 44.257812}
+    - name: pokemon-spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 729
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.257812}
+        - {x: -42.57556, y: -42.742188}
+        - {x: 44.42444, y: -42.742188}
+        - {x: 44.42444, y: 44.257812}
+    - name: pokemon-spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.18225}
+        - {x: -43, y: -42.81775}
+        - {x: 43, y: -42.81775}
+        - {x: 43, y: 44.18225}
+    - name: pokemon-spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.18225}
+        - {x: -42.65365, y: -42.81775}
+        - {x: 44.34635, y: -42.81775}
+        - {x: 44.34635, y: 44.18225}
+    - name: pokemon-spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.18225}
+        - {x: -42.807297, y: -42.81775}
+        - {x: 44.192703, y: -42.81775}
+        - {x: 44.192703, y: 44.18225}
+    - name: pokemon-spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.18225}
+        - {x: -42.960938, y: -42.81775}
+        - {x: 44.039062, y: -42.81775}
+        - {x: 44.039062, y: 44.18225}
+    - name: pokemon-spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.18225}
+        - {x: -43.114594, y: -42.81775}
+        - {x: 43.885406, y: -42.81775}
+        - {x: 43.885406, y: 44.18225}
+    - name: pokemon-spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.18225}
+        - {x: -43.26825, y: -42.81775}
+        - {x: 43.73175, y: -42.81775}
+        - {x: 43.73175, y: 44.18225}
+    - name: pokemon-spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.18225}
+        - {x: -42.921875, y: -42.81775}
+        - {x: 43.078125, y: -42.81775}
+        - {x: 43.078125, y: 44.18225}
+    - name: pokemon-spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 626
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.18225}
+        - {x: -42.57556, y: -42.81775}
+        - {x: 44.42444, y: -42.81775}
+        - {x: 44.42444, y: 44.18225}
+    - name: pokemon-spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.10675}
+        - {x: -43, y: -42.89325}
+        - {x: 43, y: -42.89325}
+        - {x: 43, y: 44.10675}
+    - name: pokemon-spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.10675}
+        - {x: -42.65365, y: -42.89325}
+        - {x: 44.34635, y: -42.89325}
+        - {x: 44.34635, y: 44.10675}
+    - name: pokemon-spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.10675}
+        - {x: -42.807297, y: -42.89325}
+        - {x: 44.192703, y: -42.89325}
+        - {x: 44.192703, y: 44.10675}
+    - name: pokemon-spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.10675}
+        - {x: -42.960938, y: -42.89325}
+        - {x: 44.039062, y: -42.89325}
+        - {x: 44.039062, y: 44.10675}
+    - name: pokemon-spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.10675}
+        - {x: -43.114594, y: -42.89325}
+        - {x: 43.885406, y: -42.89325}
+        - {x: 43.885406, y: 44.10675}
+    - name: pokemon-spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.10675}
+        - {x: -43.26825, y: -42.89325}
+        - {x: 43.73175, y: -42.89325}
+        - {x: 43.73175, y: 44.10675}
+    - name: pokemon-spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.10675}
+        - {x: -42.921875, y: -42.89325}
+        - {x: 43.078125, y: -42.89325}
+        - {x: 43.078125, y: 44.10675}
+    - name: pokemon-spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 523
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.10675}
+        - {x: -42.57556, y: -42.89325}
+        - {x: 44.42444, y: -42.89325}
+        - {x: 44.42444, y: 44.10675}
+    - name: pokemon-spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.03125}
+        - {x: -43, y: -42.96875}
+        - {x: 43, y: -42.96875}
+        - {x: 43, y: 44.03125}
+    - name: pokemon-spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 44.03125}
+        - {x: -42.65365, y: -42.96875}
+        - {x: 44.34635, y: -42.96875}
+        - {x: 44.34635, y: 44.03125}
+    - name: pokemon-spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 44.03125}
+        - {x: -42.807297, y: -42.96875}
+        - {x: 44.192703, y: -42.96875}
+        - {x: 44.192703, y: 44.03125}
+    - name: pokemon-spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 44.03125}
+        - {x: -42.960938, y: -42.96875}
+        - {x: 44.039062, y: -42.96875}
+        - {x: 44.039062, y: 44.03125}
+    - name: pokemon-spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 44.03125}
+        - {x: -43.114594, y: -42.96875}
+        - {x: 43.885406, y: -42.96875}
+        - {x: 43.885406, y: 44.03125}
+    - name: pokemon-spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 44.03125}
+        - {x: -43.26825, y: -42.96875}
+        - {x: 43.73175, y: -42.96875}
+        - {x: 43.73175, y: 44.03125}
+    - name: pokemon-spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 44.03125}
+        - {x: -42.921875, y: -42.96875}
+        - {x: 43.078125, y: -42.96875}
+        - {x: 43.078125, y: 44.03125}
+    - name: pokemon-spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 420
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 44.03125}
+        - {x: -42.57556, y: -42.96875}
+        - {x: 44.42444, y: -42.96875}
+        - {x: 44.42444, y: 44.03125}
+    - name: pokemon-spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.95572}
+        - {x: -43, y: -43.04428}
+        - {x: 43, y: -43.04428}
+        - {x: 43, y: 43.95572}
+    - name: pokemon-spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.95572}
+        - {x: -42.65365, y: -43.04428}
+        - {x: 44.34635, y: -43.04428}
+        - {x: 44.34635, y: 43.95572}
+    - name: pokemon-spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.95572}
+        - {x: -42.807297, y: -43.04428}
+        - {x: 44.192703, y: -43.04428}
+        - {x: 44.192703, y: 43.95572}
+    - name: pokemon-spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.95572}
+        - {x: -42.960938, y: -43.04428}
+        - {x: 44.039062, y: -43.04428}
+        - {x: 44.039062, y: 43.95572}
+    - name: pokemon-spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.95572}
+        - {x: -43.114594, y: -43.04428}
+        - {x: 43.885406, y: -43.04428}
+        - {x: 43.885406, y: 43.95572}
+    - name: pokemon-spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.95572}
+        - {x: -43.26825, y: -43.04428}
+        - {x: 43.73175, y: -43.04428}
+        - {x: 43.73175, y: 43.95572}
+    - name: pokemon-spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.95572}
+        - {x: -42.921875, y: -43.04428}
+        - {x: 43.078125, y: -43.04428}
+        - {x: 43.078125, y: 43.95572}
+    - name: pokemon-spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 317
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.95572}
+        - {x: -42.57556, y: -43.04428}
+        - {x: 44.42444, y: -43.04428}
+        - {x: 44.42444, y: 43.95572}
+    - name: pokemon-spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.880203}
+        - {x: -43, y: -43.119797}
+        - {x: 43, y: -43.119797}
+        - {x: 43, y: 43.880203}
+    - name: pokemon-spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.880203}
+        - {x: -42.65365, y: -43.119797}
+        - {x: 44.34635, y: -43.119797}
+        - {x: 44.34635, y: 43.880203}
+    - name: pokemon-spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.880203}
+        - {x: -42.807297, y: -43.119797}
+        - {x: 44.192703, y: -43.119797}
+        - {x: 44.192703, y: 43.880203}
+    - name: pokemon-spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.880203}
+        - {x: -42.960938, y: -43.119797}
+        - {x: 44.039062, y: -43.119797}
+        - {x: 44.039062, y: 43.880203}
+    - name: pokemon-spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.880203}
+        - {x: -43.114594, y: -43.119797}
+        - {x: 43.885406, y: -43.119797}
+        - {x: 43.885406, y: 43.880203}
+    - name: pokemon-spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.880203}
+        - {x: -43.26825, y: -43.119797}
+        - {x: 43.73175, y: -43.119797}
+        - {x: 43.73175, y: 43.880203}
+    - name: pokemon-spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.880203}
+        - {x: -42.921875, y: -43.119797}
+        - {x: 43.078125, y: -43.119797}
+        - {x: 43.078125, y: 43.880203}
+    - name: pokemon-spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 214
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.880203}
+        - {x: -42.57556, y: -43.119797}
+        - {x: 44.42444, y: -43.119797}
+        - {x: 44.42444, y: 43.880203}
+    - name: pokemon-spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.804688}
+        - {x: -43, y: -43.195312}
+        - {x: 43, y: -43.195312}
+        - {x: 43, y: 43.804688}
+    - name: pokemon-spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.804688}
+        - {x: -42.65365, y: -43.195312}
+        - {x: 44.34635, y: -43.195312}
+        - {x: 44.34635, y: 43.804688}
+    - name: pokemon-spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.804688}
+        - {x: -42.807297, y: -43.195312}
+        - {x: 44.192703, y: -43.195312}
+        - {x: 44.192703, y: 43.804688}
+    - name: pokemon-spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.804688}
+        - {x: -42.960938, y: -43.195312}
+        - {x: 44.039062, y: -43.195312}
+        - {x: 44.039062, y: 43.804688}
+    - name: pokemon-spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.804688}
+        - {x: -43.114594, y: -43.195312}
+        - {x: 43.885406, y: -43.195312}
+        - {x: 43.885406, y: 43.804688}
+    - name: pokemon-spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.26825, y: 43.804688}
+        - {x: -43.26825, y: -43.195312}
+        - {x: 43.73175, y: -43.195312}
+        - {x: 43.73175, y: 43.804688}
+    - name: pokemon-spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921875, y: 43.804688}
+        - {x: -42.921875, y: -43.195312}
+        - {x: 43.078125, y: -43.195312}
+        - {x: 43.078125, y: 43.804688}
+    - name: pokemon-spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 111
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.57556, y: 43.804688}
+        - {x: -42.57556, y: -43.195312}
+        - {x: 44.42444, y: -43.195312}
+        - {x: 44.42444, y: 43.804688}
+    - name: pokemon-spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 43.729168}
+        - {x: -43, y: -43.270832}
+        - {x: 43, y: -43.270832}
+        - {x: 43, y: 43.729168}
+    - name: pokemon-spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.65365, y: 43.729168}
+        - {x: -42.65365, y: -43.270832}
+        - {x: 44.34635, y: -43.270832}
+        - {x: 44.34635, y: 43.729168}
+    - name: pokemon-spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.807297, y: 43.729168}
+        - {x: -42.807297, y: -43.270832}
+        - {x: 44.192703, y: -43.270832}
+        - {x: 44.192703, y: 43.729168}
+    - name: pokemon-spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.960938, y: 43.729168}
+        - {x: -42.960938, y: -43.270832}
+        - {x: 44.039062, y: -43.270832}
+        - {x: 44.039062, y: 43.729168}
+    - name: pokemon-spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.114594, y: 43.729168}
+        - {x: -43.114594, y: -43.270832}
+        - {x: 43.885406, y: -43.270832}
+        - {x: 43.885406, y: 43.729168}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
